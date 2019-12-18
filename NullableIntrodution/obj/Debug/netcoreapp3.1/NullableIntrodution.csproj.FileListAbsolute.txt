@@ -1,0 +1,11 @@
+C:\github\NullableIntroduction\NullableIntrodution\bin\Debug\netcoreapp3.1\NullableIntrodution.exe
+C:\github\NullableIntroduction\NullableIntrodution\bin\Debug\netcoreapp3.1\NullableIntrodution.deps.json
+C:\github\NullableIntroduction\NullableIntrodution\bin\Debug\netcoreapp3.1\NullableIntrodution.runtimeconfig.json
+C:\github\NullableIntroduction\NullableIntrodution\bin\Debug\netcoreapp3.1\NullableIntrodution.runtimeconfig.dev.json
+C:\github\NullableIntroduction\NullableIntrodution\bin\Debug\netcoreapp3.1\NullableIntrodution.dll
+C:\github\NullableIntroduction\NullableIntrodution\bin\Debug\netcoreapp3.1\NullableIntrodution.pdb
+C:\github\NullableIntroduction\NullableIntrodution\obj\Debug\netcoreapp3.1\NullableIntrodution.csprojAssemblyReference.cache
+C:\github\NullableIntroduction\NullableIntrodution\obj\Debug\netcoreapp3.1\NullableIntrodution.AssemblyInfoInputs.cache
+C:\github\NullableIntroduction\NullableIntrodution\obj\Debug\netcoreapp3.1\NullableIntrodution.AssemblyInfo.cs
+C:\github\NullableIntroduction\NullableIntrodution\obj\Debug\netcoreapp3.1\NullableIntrodution.dll
+C:\github\NullableIntroduction\NullableIntrodution\obj\Debug\netcoreapp3.1\NullableIntrodution.pdb
